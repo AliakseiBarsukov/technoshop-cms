@@ -1,4 +1,4 @@
-import {form, preview} from './elems.js';
+import {form, preview, image} from './elems.js';
 import { toBase64 } from './utils.js';
 
 const showPreview = (src) => {
